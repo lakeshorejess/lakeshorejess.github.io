@@ -27,4 +27,3 @@ or
 8. You can make changes by editing the files on your computer and pushing the changes to GitHub or by editing the files directly within the GitHub repository.
 <br><br>
 Have Fun!<p>
-    </body>
