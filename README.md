@@ -12,7 +12,7 @@
 <br><br>
 3. Click the green "New" button.
 <br><br>
-4. Name your repository "<your user name>.github.io"
+4. Name your repository "[your user name].github.io"
 <br><br>
 5a. To upload files manually, click the link "creating a new file" or "uploading an existing file." Select your files from the folder or  Drag and Drop your files into the large rectangle section labeled "Drag and Drop."
 <br><br>
@@ -22,7 +22,7 @@ or
 <br><br>
 6. Click the green Commit button.
 <br><br>
-7. Test your website by going to <your user name>.github.io.
+7. Test your website by going to [your user name].github.io.
 <br><br>
 8. You can make changes by editing the files on your computer and pushing the changes to GitHub or by editing the files directly within the GitHub repository.
 <br><br>
