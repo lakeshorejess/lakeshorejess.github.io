@@ -4,7 +4,7 @@
   <em>801.831.7799<br>
   jessicalindsey2@gmail.com</em>
   <img src="./JessBio.jpg"/>
-  <h2>How to Create Your Own Github Website</h2>
+  <h2>How to Create Your Own Web Page Using GitHub</h2>
 <body>
   <p>1. Navigate to github.com and sign in if you have an account. If you don't have an account, create one.
   <br><br>
