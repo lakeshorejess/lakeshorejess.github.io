@@ -5,7 +5,8 @@
   jessicalindsey2@gmail.com</em>
   <img src="./JessBio.jpg"/>
   <h2>How to Create Your Own Github Website</h2>
-<p>1. Navigate to github.com and sign in if you have an account. If you don't have an account, create one.
+<body>
+  <p>1. Navigate to github.com and sign in if you have an account. If you don't have an account, create one.
   <br><br>
 2. Go to the menu on the top right (with your profile avatar icon) and select "Your Repositories."
 <br><br>
@@ -26,4 +27,4 @@ or
 8. You can make changes by editing the files on your computer and pushing the changes to GitHub or by editing the files directly within the GitHub repository.
 <br><br>
 Have Fun!<p>
-  </html>
+    </body></html>
