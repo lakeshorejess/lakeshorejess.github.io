@@ -1,10 +1,10 @@
 <html>
-  <h1>Jessica Lindsey's Portfolio</h1><br><br>
-  <a href="https://lakeshoreartschool.com">Lakeshore School for the Arts and Technology</a><br><br>
+  <h1>Jessica Lindsey's Portfolio</h1><br>
+  <a href="https://lakeshoreartschool.com">Lakeshore School for the Arts and Technology</a><br>
   <em>801.831.7799<br>
-  jessicalindsey2@gmail.com</em>
+  jessicalindsey2@gmail.com</em><br><br>
   <img src="./JessBio.jpg" width="320" height="350"/>
-  <h2>How to Create Your Own Web Page Using GitHub</h2>
+  <h2>How to Create Your Own Web Page Using GitHub</h2><br>
 <body>
   <p>1. Navigate to github.com and sign in if you have an account. If you don't have an account, create one.
   <br><br>
