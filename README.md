@@ -1,6 +1,6 @@
 <html>
-  <h1>Jessica Lindsey's Portfolio</h1><br>
-  <a href="https://lakeshoreartschool.com">Lakeshore School for the Arts and Technology</a><br>
+  <h1>Jessica Lindsey's Portfolio</h1><br><br>
+  <a href="https://lakeshoreartschool.com">Lakeshore School for the Arts and Technology</a><br><br>
   <em>801.831.7799<br>
   jessicalindsey2@gmail.com</em>
   <img src="./JessBio.jpg" width="300" height="350"/>
