@@ -20,7 +20,7 @@ or
 <br><br>
 5b. Alternatively, a faster method is to push an existing repository from your machine or create a new repository using the command line. Simply copy the commands provided by clicking the clipboard icon and paste them in the command line (ctrl-shift-v). Run the commands.
 <br><br>
-6. Click the green Commit button.
+6. Click the green "Commit" button.
 <br><br>
 7. Test your website by going to [your user name].github.io.
 <br><br>
